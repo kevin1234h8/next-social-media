@@ -1,0 +1,570 @@
+APP: 2023/08/12 01:38:25 database.go:25: connected to mongodb successfully
+APP: 2023/08/12 01:38:25 database.go:25: connected to mongodb successfully
+APP: 2023/08/12 01:38:40 database.go:25: connected to mongodb successfully
+APP: 2023/08/12 01:38:53 database.go:25: connected to mongodb successfully
+APP: 2023/08/12 01:40:00 database.go:25: connected to mongoDb successfully
+APP: 2023/08/12 01:41:46 database.go:26: connected to mongoDb successfully
+APP: 2023/08/12 01:41:46 database.go:27: database url:
+APP: 2023/08/12 01:41:46 database.go:26: connected to mongoDb successfully
+APP: 2023/08/12 01:41:46 database.go:27: database url:
+APP: 2023/08/12 01:41:46 database.go:26: connected to mongoDb successfully
+APP: 2023/08/12 01:41:46 database.go:27: database url:
+APP: 2023/08/12 01:42:28 database.go:26: connected to mongoDb successfully
+APP: 2023/08/12 01:42:28 database.go:27: database url:
+APP: 2023/08/12 01:42:28 database.go:26: connected to mongoDb successfully
+APP: 2023/08/12 01:42:28 database.go:27: database url:
+APP: 2023/08/12 01:42:39 database.go:26: connected to mongoDb successfully
+APP: 2023/08/12 01:42:39 database.go:27: database url:
+APP: 2023/08/12 01:42:39 database.go:26: connected to mongoDb successfully
+APP: 2023/08/12 01:42:39 database.go:27: database url:
+APP: 2023/08/12 01:43:10 database.go:31: connected to mongoDb successfully
+APP: 2023/08/12 01:43:10 database.go:32: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 01:43:10 database.go:31: connected to mongoDb successfully
+APP: 2023/08/12 01:43:10 database.go:32: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 01:45:43 database.go:31: connected to mongoDb successfully
+APP: 2023/08/12 01:45:43 database.go:32: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 01:45:44 database.go:31: connected to mongoDb successfully
+APP: 2023/08/12 01:45:44 database.go:32: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 01:46:49 database.go:31: connected to mongoDb successfully
+APP: 2023/08/12 01:46:49 database.go:32: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 01:46:49 database.go:31: connected to mongoDb successfully
+APP: 2023/08/12 01:46:49 database.go:32: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 01:47:08 database.go:31: connected to mongoDb successfully
+APP: 2023/08/12 01:47:08 database.go:32: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 01:47:36 database.go:31: connected to mongoDb successfully
+APP: 2023/08/12 01:47:36 database.go:32: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 01:47:37 database.go:31: connected to mongoDb successfully
+APP: 2023/08/12 01:47:37 database.go:32: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 01:47:53 database.go:31: connected to mongoDb successfully
+APP: 2023/08/12 01:47:53 database.go:32: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 13:17:58 initiliazer.go:19: 2023/08/12 13:17:58 Connect: Error pinging MongoDB: server selection error: server selection timeout, current topology: { Type: Unknown, Servers: [{ Addr: 127.0.0.1:27017, Type: Unknown, Last error: dial tcp 127.0.0.1:27017: connectex: No connection could be made because the target machine actively refused it. }, ] }
+APP: 2023/08/12 13:21:08 initiliazer.go:19: 2023/08/12 13:21:08 Connect: Connected to MongoDB!
+APP: 2023/08/12 13:21:08 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 13:21:08 initiliazer.go:19: 2023/08/12 13:21:08 Connect: Connected to MongoDB!
+APP: 2023/08/12 13:21:08 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 13:21:31 initiliazer.go:19: 2023/08/12 13:21:31 Connect: Connected to MongoDB!
+APP: 2023/08/12 13:21:31 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 13:22:16 initiliazer.go:19: 2023/08/12 13:22:16 Connect: Connected to MongoDB!
+APP: 2023/08/12 13:22:16 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 13:22:43 initiliazer.go:19: 2023/08/12 13:22:43 Connect: Connected to MongoDB!
+APP: 2023/08/12 13:22:43 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 13:22:43 initiliazer.go:19: 2023/08/12 13:22:43 Connect: Connected to MongoDB!
+APP: 2023/08/12 13:22:43 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 13:34:49 initiliazer.go:19: 2023/08/12 13:34:49 Connect: Connected to MongoDB!
+APP: 2023/08/12 13:34:49 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 13:34:49 initiliazer.go:19: 2023/08/12 13:34:49 Connect: Connected to MongoDB!
+APP: 2023/08/12 13:34:49 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 13:35:22 initiliazer.go:19: 2023/08/12 13:35:22 Connect: Connected to MongoDB!
+APP: 2023/08/12 13:35:22 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 13:35:22 initiliazer.go:19: 2023/08/12 13:35:22 Connect: Connected to MongoDB!
+APP: 2023/08/12 13:35:22 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 13:35:28 initiliazer.go:19: 2023/08/12 13:35:28 Connect: Connected to MongoDB!
+APP: 2023/08/12 13:35:28 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 13:35:28 initiliazer.go:19: 2023/08/12 13:35:28 Connect: Connected to MongoDB!
+APP: 2023/08/12 13:35:28 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 13:36:30 initiliazer.go:19: 2023/08/12 13:36:30 Connect: Connected to MongoDB!
+APP: 2023/08/12 13:36:30 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 13:36:30 initiliazer.go:19: 2023/08/12 13:36:30 Connect: Connected to MongoDB!
+APP: 2023/08/12 13:36:30 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 13:37:15 initiliazer.go:19: 2023/08/12 13:37:15 Connect: Connected to MongoDB!
+APP: 2023/08/12 13:37:15 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 13:37:15 initiliazer.go:19: 2023/08/12 13:37:15 Connect: Connected to MongoDB!
+APP: 2023/08/12 13:37:15 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 13:37:27 initiliazer.go:19: 2023/08/12 13:37:27 Connect: Connected to MongoDB!
+APP: 2023/08/12 13:37:27 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 13:37:27 initiliazer.go:19: 2023/08/12 13:37:27 Connect: Connected to MongoDB!
+APP: 2023/08/12 13:37:27 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 13:37:48 initiliazer.go:19: 2023/08/12 13:37:48 Connect: Connected to MongoDB!
+APP: 2023/08/12 13:37:48 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 13:37:48 initiliazer.go:19: 2023/08/12 13:37:48 Connect: Connected to MongoDB!
+APP: 2023/08/12 13:37:48 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 13:40:08 initiliazer.go:19: 2023/08/12 13:40:08 Connect: Connected to MongoDB!
+APP: 2023/08/12 13:40:08 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 13:40:08 initiliazer.go:19: 2023/08/12 13:40:08 Connect: Connected to MongoDB!
+APP: 2023/08/12 13:40:08 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 13:40:19 initiliazer.go:19: 2023/08/12 13:40:19 Connect: Connected to MongoDB!
+APP: 2023/08/12 13:40:19 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 13:40:19 initiliazer.go:19: 2023/08/12 13:40:19 Connect: Connected to MongoDB!
+APP: 2023/08/12 13:40:19 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 13:42:29 initiliazer.go:19: 2023/08/12 13:42:29 Connect: Connected to MongoDB!
+APP: 2023/08/12 13:42:29 initiliazer.go:19: 2023/08/12 13:42:29 Connect: Connected to MongoDB!
+APP: 2023/08/12 13:42:29 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 13:42:29 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 13:44:03 initiliazer.go:19: 2023/08/12 13:44:03 Connect: Connected to MongoDB!
+APP: 2023/08/12 13:44:03 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 13:44:03 initiliazer.go:19: 2023/08/12 13:44:03 Connect: Connected to MongoDB!
+APP: 2023/08/12 13:44:03 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 13:45:45 initiliazer.go:19: 2023/08/12 13:45:45 Connect: Connected to MongoDB!
+APP: 2023/08/12 13:45:45 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 13:45:45 initiliazer.go:19: 2023/08/12 13:45:45 Connect: Connected to MongoDB!
+APP: 2023/08/12 13:45:45 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 13:45:53 initiliazer.go:19: 2023/08/12 13:45:53 Connect: Connected to MongoDB!
+APP: 2023/08/12 13:45:53 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 13:45:53 initiliazer.go:19: 2023/08/12 13:45:53 Connect: Connected to MongoDB!
+APP: 2023/08/12 13:45:53 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 17:52:18 initiliazer.go:19: 2023/08/12 17:52:18 Connect: Connected to MongoDB!
+APP: 2023/08/12 17:52:18 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 17:54:42 initiliazer.go:19: 2023/08/12 17:54:42 Connect: Connected to MongoDB!
+APP: 2023/08/12 17:54:42 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 17:54:43 initiliazer.go:19: 2023/08/12 17:54:43 Connect: Connected to MongoDB!
+APP: 2023/08/12 17:54:43 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 17:56:14 initiliazer.go:19: 2023/08/12 17:56:14 Connect: Connected to MongoDB!
+APP: 2023/08/12 17:56:14 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 17:56:14 initiliazer.go:19: 2023/08/12 17:56:14 Connect: Connected to MongoDB!
+APP: 2023/08/12 17:56:14 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 17:56:14 initiliazer.go:19: 2023/08/12 17:56:14 Connect: Connected to MongoDB!
+APP: 2023/08/12 17:56:14 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 17:56:14 initiliazer.go:19: 2023/08/12 17:56:14 Connect: Connected to MongoDB!
+APP: 2023/08/12 17:56:14 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 17:56:14 initiliazer.go:19: 2023/08/12 17:56:14 Connect: Connected to MongoDB!
+APP: 2023/08/12 17:56:14 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 17:57:42 initiliazer.go:19: 2023/08/12 17:57:42 Connect: Connected to MongoDB!
+APP: 2023/08/12 17:57:42 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 17:57:42 initiliazer.go:19: 2023/08/12 17:57:42 Connect: Connected to MongoDB!
+APP: 2023/08/12 17:57:42 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 17:58:07 initiliazer.go:19: 2023/08/12 17:58:07 Connect: Connected to MongoDB!
+APP: 2023/08/12 17:58:07 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 17:58:07 initiliazer.go:19: 2023/08/12 17:58:07 Connect: Connected to MongoDB!
+APP: 2023/08/12 17:58:07 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 17:58:09 initiliazer.go:19: 2023/08/12 17:58:09 Connect: Connected to MongoDB!
+APP: 2023/08/12 17:58:09 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:00:10 initiliazer.go:19: 2023/08/12 18:00:10 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:00:10 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:00:52 initiliazer.go:19: 2023/08/12 18:00:52 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:00:52 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:00:52 initiliazer.go:19: 2023/08/12 18:00:52 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:00:52 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:03:10 initiliazer.go:19: 2023/08/12 18:03:10 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:03:10 initiliazer.go:19: 2023/08/12 18:03:10 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:03:10 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:03:10 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:03:10 initiliazer.go:19: 2023/08/12 18:03:10 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:03:10 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:03:10 initiliazer.go:19: 2023/08/12 18:03:10 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:03:10 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:04:32 initiliazer.go:19: 2023/08/12 18:04:32 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:04:32 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:04:33 initiliazer.go:19: 2023/08/12 18:04:33 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:04:33 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:04:33 initiliazer.go:19: 2023/08/12 18:04:33 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:04:33 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:04:33 initiliazer.go:19: 2023/08/12 18:04:33 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:04:33 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:04:33 initiliazer.go:19: 2023/08/12 18:04:33 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:04:33 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:04:33 initiliazer.go:19: 2023/08/12 18:04:33 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:04:33 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:04:33 initiliazer.go:19: 2023/08/12 18:04:33 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:04:33 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:04:41 initiliazer.go:19: 2023/08/12 18:04:41 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:04:41 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:05:13 initiliazer.go:19: 2023/08/12 18:05:13 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:05:13 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:07:12 initiliazer.go:19: 2023/08/12 18:07:12 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:07:12 initiliazer.go:19: 2023/08/12 18:07:12 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:07:12 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:07:12 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:07:23 initiliazer.go:19: 2023/08/12 18:07:23 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:07:23 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:07:23 initiliazer.go:19: 2023/08/12 18:07:23 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:07:23 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:08:00 initiliazer.go:19: 2023/08/12 18:08:00 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:08:00 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:08:01 initiliazer.go:19: 2023/08/12 18:08:01 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:08:01 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:08:01 initiliazer.go:19: 2023/08/12 18:08:01 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:08:01 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:08:01 initiliazer.go:19: 2023/08/12 18:08:01 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:08:01 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:08:01 initiliazer.go:19: 2023/08/12 18:08:01 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:08:01 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:08:01 initiliazer.go:19: 2023/08/12 18:08:01 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:08:01 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:08:01 initiliazer.go:19: 2023/08/12 18:08:01 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:08:01 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:09:14 initiliazer.go:19: 2023/08/12 18:09:14 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:09:14 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:09:14 initiliazer.go:19: 2023/08/12 18:09:14 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:09:14 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:09:20 initiliazer.go:19: 2023/08/12 18:09:20 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:09:20 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:09:20 initiliazer.go:19: 2023/08/12 18:09:20 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:09:20 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:09:26 initiliazer.go:19: 2023/08/12 18:09:26 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:09:26 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:10:16 initiliazer.go:19: 2023/08/12 18:10:16 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:10:16 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:11:28 initiliazer.go:19: 2023/08/12 18:11:28 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:11:28 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:11:28 initiliazer.go:19: 2023/08/12 18:11:28 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:11:28 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:11:40 initiliazer.go:19: 2023/08/12 18:11:40 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:11:40 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:11:41 initiliazer.go:19: 2023/08/12 18:11:41 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:11:41 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:11:41 initiliazer.go:19: 2023/08/12 18:11:41 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:11:41 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:11:41 initiliazer.go:19: 2023/08/12 18:11:41 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:11:41 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:11:41 initiliazer.go:19: 2023/08/12 18:11:41 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:11:41 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:11:41 initiliazer.go:19: 2023/08/12 18:11:41 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:11:41 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:11:41 initiliazer.go:19: 2023/08/12 18:11:41 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:11:41 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:11:42 initiliazer.go:19: 2023/08/12 18:11:42 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:11:42 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:11:55 initiliazer.go:19: 2023/08/12 18:11:55 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:11:55 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:14:20 initiliazer.go:19: 2023/08/12 18:14:20 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:14:20 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:14:29 initiliazer.go:19: 2023/08/12 18:14:29 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:14:29 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:14:29 initiliazer.go:19: 2023/08/12 18:14:29 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:14:29 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:14:29 initiliazer.go:19: 2023/08/12 18:14:29 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:14:29 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:14:29 initiliazer.go:19: 2023/08/12 18:14:29 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:14:29 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:14:29 initiliazer.go:19: 2023/08/12 18:14:29 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:14:29 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:15:02 initiliazer.go:19: 2023/08/12 18:15:02 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:15:02 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:15:10 initiliazer.go:19: 2023/08/12 18:15:10 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:15:10 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:15:10 initiliazer.go:19: 2023/08/12 18:15:10 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:15:10 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:24:28 initiliazer.go:19: 2023/08/12 18:24:28 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:24:28 initiliazer.go:19: 2023/08/12 18:24:28 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:24:28 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:24:28 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:24:28 initiliazer.go:19: 2023/08/12 18:24:28 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:24:28 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:24:28 initiliazer.go:19: 2023/08/12 18:24:28 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:24:28 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:24:28 initiliazer.go:19: 2023/08/12 18:24:28 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:24:28 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:25:11 initiliazer.go:19: 2023/08/12 18:25:11 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:25:11 initiliazer.go:19: 2023/08/12 18:25:11 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:25:11 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:25:11 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:25:13 initiliazer.go:19: 2023/08/12 18:25:13 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:25:13 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:25:46 initiliazer.go:19: 2023/08/12 18:25:46 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:25:46 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:25:46 initiliazer.go:19: 2023/08/12 18:25:46 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:25:46 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:32:36 initiliazer.go:19: 2023/08/12 18:32:36 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:32:36 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:32:37 initiliazer.go:19: 2023/08/12 18:32:37 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:32:37 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:32:37 initiliazer.go:19: 2023/08/12 18:32:37 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:32:37 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:32:37 initiliazer.go:19: 2023/08/12 18:32:37 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:32:37 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:32:37 initiliazer.go:19: 2023/08/12 18:32:37 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:32:37 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:32:37 initiliazer.go:19: 2023/08/12 18:32:37 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:32:37 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:32:38 initiliazer.go:19: 2023/08/12 18:32:38 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:32:38 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:46:06 initiliazer.go:19: 2023/08/12 18:46:06 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:46:06 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:46:06 initiliazer.go:19: 2023/08/12 18:46:06 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:46:06 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:46:09 initiliazer.go:19: 2023/08/12 18:46:09 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:46:09 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:46:09 initiliazer.go:19: 2023/08/12 18:46:09 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:46:09 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:46:09 initiliazer.go:19: 2023/08/12 18:46:09 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:46:09 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:46:09 initiliazer.go:19: 2023/08/12 18:46:09 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:46:09 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:49:26 initiliazer.go:19: 2023/08/12 18:49:26 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:49:26 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:49:36 initiliazer.go:19: 2023/08/12 18:49:36 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:49:36 initiliazer.go:19: 2023/08/12 18:49:36 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:49:36 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:49:36 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:49:36 initiliazer.go:19: 2023/08/12 18:49:36 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:49:36 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:50:22 initiliazer.go:19: 2023/08/12 18:50:22 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:50:22 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:50:22 initiliazer.go:19: 2023/08/12 18:50:22 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:50:22 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:50:29 initiliazer.go:19: 2023/08/12 18:50:29 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:50:29 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:50:29 initiliazer.go:19: 2023/08/12 18:50:29 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:50:29 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:50:29 initiliazer.go:19: 2023/08/12 18:50:29 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:50:29 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:50:29 initiliazer.go:19: 2023/08/12 18:50:29 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:50:29 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:52:51 initiliazer.go:19: 2023/08/12 18:52:51 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:52:51 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:52:51 initiliazer.go:19: 2023/08/12 18:52:51 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:52:51 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:52:57 initiliazer.go:19: 2023/08/12 18:52:57 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:52:57 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:52:58 initiliazer.go:19: 2023/08/12 18:52:58 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:52:58 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:52:58 initiliazer.go:19: 2023/08/12 18:52:58 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:52:58 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:53:04 initiliazer.go:19: 2023/08/12 18:53:04 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:53:04 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:53:04 initiliazer.go:19: 2023/08/12 18:53:04 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:53:04 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:53:50 initiliazer.go:19: 2023/08/12 18:53:50 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:53:50 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:53:57 initiliazer.go:19: 2023/08/12 18:53:57 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:53:57 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:54:59 initiliazer.go:19: 2023/08/12 18:54:59 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:54:59 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:54:59 initiliazer.go:19: 2023/08/12 18:54:59 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:54:59 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:55:06 initiliazer.go:19: 2023/08/12 18:55:06 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:55:06 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:55:22 initiliazer.go:19: 2023/08/12 18:55:22 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:55:22 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:55:22 initiliazer.go:19: 2023/08/12 18:55:22 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:55:22 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:55:37 initiliazer.go:19: 2023/08/12 18:55:37 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:55:37 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:55:44 initiliazer.go:19: 2023/08/12 18:55:44 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:55:44 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:55:55 initiliazer.go:19: 2023/08/12 18:55:55 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:55:55 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:59:31 initiliazer.go:19: 2023/08/12 18:59:31 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:59:31 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 18:59:31 initiliazer.go:19: 2023/08/12 18:59:31 Connect: Connected to MongoDB!
+APP: 2023/08/12 18:59:31 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:15:08 initiliazer.go:19: 2023/08/12 22:15:08 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:15:08 initiliazer.go:19: 2023/08/12 22:15:08 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:15:08 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:15:08 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:15:23 initiliazer.go:19: 2023/08/12 22:15:23 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:15:23 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:15:23 initiliazer.go:19: 2023/08/12 22:15:23 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:15:23 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:15:23 initiliazer.go:19: 2023/08/12 22:15:23 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:15:23 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:15:26 initiliazer.go:19: 2023/08/12 22:15:26 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:15:26 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:17:16 initiliazer.go:19: 2023/08/12 22:17:16 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:17:16 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:17:17 initiliazer.go:19: 2023/08/12 22:17:17 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:17:17 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:17:47 initiliazer.go:19: 2023/08/12 22:17:47 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:17:47 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:17:47 initiliazer.go:19: 2023/08/12 22:17:47 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:17:47 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:17:47 initiliazer.go:19: 2023/08/12 22:17:47 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:17:47 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:19:33 initiliazer.go:19: 2023/08/12 22:19:33 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:19:33 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:19:33 initiliazer.go:19: 2023/08/12 22:19:33 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:19:33 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:20:04 initiliazer.go:19: 2023/08/12 22:20:04 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:20:04 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:20:05 initiliazer.go:19: 2023/08/12 22:20:05 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:20:05 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:20:05 initiliazer.go:19: 2023/08/12 22:20:05 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:20:05 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:20:05 initiliazer.go:19: 2023/08/12 22:20:05 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:20:05 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:20:08 initiliazer.go:19: 2023/08/12 22:20:08 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:20:08 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:20:39 initiliazer.go:19: 2023/08/12 22:20:39 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:20:39 initiliazer.go:19: 2023/08/12 22:20:39 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:20:39 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:20:39 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:21:14 initiliazer.go:19: 2023/08/12 22:21:14 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:21:14 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:22:03 initiliazer.go:19: 2023/08/12 22:22:03 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:22:03 initiliazer.go:19: 2023/08/12 22:22:03 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:22:03 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:22:03 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:22:04 initiliazer.go:19: 2023/08/12 22:22:04 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:22:04 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:22:04 initiliazer.go:19: 2023/08/12 22:22:04 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:22:04 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:22:11 initiliazer.go:19: 2023/08/12 22:22:11 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:22:11 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:33:22 initiliazer.go:19: 2023/08/12 22:33:22 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:33:22 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:33:22 initiliazer.go:19: 2023/08/12 22:33:22 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:33:22 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:33:25 initiliazer.go:19: 2023/08/12 22:33:25 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:33:25 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:33:42 initiliazer.go:19: 2023/08/12 22:33:42 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:33:42 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:33:48 initiliazer.go:19: 2023/08/12 22:33:48 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:33:48 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:33:48 initiliazer.go:19: 2023/08/12 22:33:48 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:33:48 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:34:09 initiliazer.go:19: 2023/08/12 22:34:09 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:34:09 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:34:09 initiliazer.go:19: 2023/08/12 22:34:09 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:34:09 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:36:21 initiliazer.go:19: 2023/08/12 22:36:21 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:36:21 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:36:21 initiliazer.go:19: 2023/08/12 22:36:21 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:36:21 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:36:35 initiliazer.go:19: 2023/08/12 22:36:35 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:36:35 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:36:35 initiliazer.go:19: 2023/08/12 22:36:35 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:36:35 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:37:39 initiliazer.go:19: 2023/08/12 22:37:39 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:37:39 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:37:39 initiliazer.go:19: 2023/08/12 22:37:39 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:37:39 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:37:39 initiliazer.go:19: 2023/08/12 22:37:39 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:37:39 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:37:39 initiliazer.go:19: 2023/08/12 22:37:39 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:37:39 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:37:39 initiliazer.go:19: 2023/08/12 22:37:39 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:37:39 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:37:39 initiliazer.go:19: 2023/08/12 22:37:39 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:37:39 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:37:39 initiliazer.go:19: 2023/08/12 22:37:39 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:37:39 initiliazer.go:19: 2023/08/12 22:37:39 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:37:39 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:37:39 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:38:06 initiliazer.go:19: 2023/08/12 22:38:06 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:38:06 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:38:06 initiliazer.go:19: 2023/08/12 22:38:06 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:38:06 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:38:18 initiliazer.go:19: 2023/08/12 22:38:18 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:38:18 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:38:18 initiliazer.go:19: 2023/08/12 22:38:18 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:38:18 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:43:27 initiliazer.go:19: 2023/08/12 22:43:27 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:43:27 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:43:27 initiliazer.go:19: 2023/08/12 22:43:27 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:43:27 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:43:43 initiliazer.go:19: 2023/08/12 22:43:43 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:43:43 initiliazer.go:19: 2023/08/12 22:43:43 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:43:43 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:43:43 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:43:43 initiliazer.go:19: 2023/08/12 22:43:43 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:43:43 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:44:30 initiliazer.go:19: 2023/08/12 22:44:30 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:44:30 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:44:30 initiliazer.go:19: 2023/08/12 22:44:30 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:44:30 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:46:36 initiliazer.go:19: 2023/08/12 22:46:36 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:46:36 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:46:36 initiliazer.go:19: 2023/08/12 22:46:36 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:46:36 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:49:16 initiliazer.go:19: 2023/08/12 22:49:16 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:49:16 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:50:00 initiliazer.go:19: 2023/08/12 22:50:00 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:50:00 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:50:00 initiliazer.go:19: 2023/08/12 22:50:00 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:50:00 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:50:24 initiliazer.go:19: 2023/08/12 22:50:24 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:50:24 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:50:31 initiliazer.go:19: 2023/08/12 22:50:31 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:50:31 initiliazer.go:19: 2023/08/12 22:50:31 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:50:31 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:50:31 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:50:31 initiliazer.go:19: 2023/08/12 22:50:31 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:50:31 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:50:31 initiliazer.go:19: 2023/08/12 22:50:31 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:50:31 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:50:53 initiliazer.go:19: 2023/08/12 22:50:53 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:50:53 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:51:39 initiliazer.go:19: 2023/08/12 22:51:39 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:51:39 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:51:39 initiliazer.go:19: 2023/08/12 22:51:39 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:51:39 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:52:03 initiliazer.go:19: 2023/08/12 22:52:03 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:52:03 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:54:13 initiliazer.go:19: 2023/08/12 22:54:13 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:54:13 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:54:13 initiliazer.go:19: 2023/08/12 22:54:13 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:54:13 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:54:18 initiliazer.go:19: 2023/08/12 22:54:18 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:54:18 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:56:50 initiliazer.go:19: 2023/08/12 22:56:50 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:56:50 initiliazer.go:19: 2023/08/12 22:56:50 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:56:50 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:56:50 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:57:31 initiliazer.go:19: 2023/08/12 22:57:31 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:57:31 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:57:31 initiliazer.go:19: 2023/08/12 22:57:31 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:57:31 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:57:49 initiliazer.go:19: 2023/08/12 22:57:49 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:57:49 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:57:49 initiliazer.go:19: 2023/08/12 22:57:49 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:57:49 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:57:52 initiliazer.go:19: 2023/08/12 22:57:52 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:57:52 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:59:28 initiliazer.go:19: 2023/08/12 22:59:28 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:59:28 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:59:28 initiliazer.go:19: 2023/08/12 22:59:28 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:59:28 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 22:59:28 initiliazer.go:19: 2023/08/12 22:59:28 Connect: Connected to MongoDB!
+APP: 2023/08/12 22:59:28 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 23:06:52 initiliazer.go:19: 2023/08/12 23:06:52 Connect: Connected to MongoDB!
+APP: 2023/08/12 23:06:52 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 23:06:52 initiliazer.go:19: 2023/08/12 23:06:52 Connect: Connected to MongoDB!
+APP: 2023/08/12 23:06:52 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 23:28:49 initiliazer.go:19: 2023/08/12 23:28:49 Connect: Connected to MongoDB!
+APP: 2023/08/12 23:28:49 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 23:29:00 initiliazer.go:19: 2023/08/12 23:29:00 Connect: Connected to MongoDB!
+APP: 2023/08/12 23:29:00 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 23:29:00 initiliazer.go:19: 2023/08/12 23:29:00 Connect: Connected to MongoDB!
+APP: 2023/08/12 23:29:00 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 23:29:07 initiliazer.go:19: 2023/08/12 23:29:07 Connect: Connected to MongoDB!
+APP: 2023/08/12 23:29:07 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 23:29:07 initiliazer.go:19: 2023/08/12 23:29:07 Connect: Connected to MongoDB!
+APP: 2023/08/12 23:29:07 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 23:29:44 initiliazer.go:19: 2023/08/12 23:29:44 Connect: Connected to MongoDB!
+APP: 2023/08/12 23:29:44 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 23:30:57 initiliazer.go:19: 2023/08/12 23:30:57 Connect: Connected to MongoDB!
+APP: 2023/08/12 23:30:57 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 23:30:57 initiliazer.go:19: 2023/08/12 23:30:57 Connect: Connected to MongoDB!
+APP: 2023/08/12 23:30:57 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 23:30:59 initiliazer.go:19: 2023/08/12 23:30:59 Connect: Connected to MongoDB!
+APP: 2023/08/12 23:30:59 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 23:31:18 initiliazer.go:19: 2023/08/12 23:31:18 Connect: Connected to MongoDB!
+APP: 2023/08/12 23:31:18 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 23:32:07 initiliazer.go:19: 2023/08/12 23:32:07 Connect: Connected to MongoDB!
+APP: 2023/08/12 23:32:07 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 23:32:07 initiliazer.go:19: 2023/08/12 23:32:07 Connect: Connected to MongoDB!
+APP: 2023/08/12 23:32:07 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 23:32:17 initiliazer.go:19: 2023/08/12 23:32:17 Connect: Connected to MongoDB!
+APP: 2023/08/12 23:32:17 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 23:33:01 initiliazer.go:19: 2023/08/12 23:33:01 Connect: Connected to MongoDB!
+APP: 2023/08/12 23:33:01 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 23:33:37 initiliazer.go:19: 2023/08/12 23:33:37 Connect: Connected to MongoDB!
+APP: 2023/08/12 23:33:37 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 23:36:28 initiliazer.go:19: 2023/08/12 23:36:28 Connect: Connected to MongoDB!
+APP: 2023/08/12 23:36:28 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 23:36:44 initiliazer.go:19: 2023/08/12 23:36:44 Connect: Connected to MongoDB!
+APP: 2023/08/12 23:36:44 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/12 23:38:45 initiliazer.go:19: 2023/08/12 23:38:45 Connect: Connected to MongoDB!
+APP: 2023/08/12 23:38:45 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/13 16:35:04 initiliazer.go:19: 2023/08/13 16:35:04 Connect: Connected to MongoDB!
+APP: 2023/08/13 16:35:04 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/13 16:36:23 initiliazer.go:19: 2023/08/13 16:36:23 Connect: Connected to MongoDB!
+APP: 2023/08/13 16:36:23 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/13 16:44:02 initiliazer.go:19: 2023/08/13 16:44:02 Connect: Connected to MongoDB!
+APP: 2023/08/13 16:44:02 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/13 16:44:39 initiliazer.go:19: 2023/08/13 16:44:39 Connect: Connected to MongoDB!
+APP: 2023/08/13 16:44:39 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/13 16:44:56 initiliazer.go:19: 2023/08/13 16:44:56 Connect: Connected to MongoDB!
+APP: 2023/08/13 16:44:56 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/13 16:45:20 initiliazer.go:19: 2023/08/13 16:45:20 Connect: Connected to MongoDB!
+APP: 2023/08/13 16:45:20 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/13 16:47:12 initiliazer.go:19: 2023/08/13 16:47:12 Connect: Connected to MongoDB!
+APP: 2023/08/13 16:47:12 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/13 16:47:52 initiliazer.go:19: 2023/08/13 16:47:52 Connect: Connected to MongoDB!
+APP: 2023/08/13 16:47:52 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/13 19:11:02 initiliazer.go:19: 2023/08/13 19:11:02 Connect: Connected to MongoDB!
+APP: 2023/08/13 19:11:02 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/13 21:21:23 initiliazer.go:19: 2023/08/13 21:21:23 Connect: Connected to MongoDB!
+APP: 2023/08/13 21:21:23 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
+APP: 2023/08/24 01:31:09 initiliazer.go:19: 2023/08/24 01:31:09 Connect: Connected to MongoDB!
+APP: 2023/08/24 01:31:09 database.go:35: database url:mongodb://127.0.0.1:27017/socialmedianext
